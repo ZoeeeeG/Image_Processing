@@ -1,7 +1,7 @@
 # Image Processing
 1. parcer.c 是一个解析程序
 2. invert 是图像反相，新像素值= 255 - 旧像素值
-3. gray 是把彩色图像变为灰度图，由gray = （r + g + b）/3 得到
+3. gray 是把彩色图像变为灰度图，由gray = （R + G + B）/3 得到
 每个像素点灰度图下的值。
 4. olor_overlay 是计算两个图片重合后颜色的变换
 5. crop 是图像的裁剪
